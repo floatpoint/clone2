@@ -2,3 +2,4 @@ this is clone2 sourcetree
 new value
 feture new
 feture foure
+myNewBranch
